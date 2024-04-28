@@ -28,7 +28,7 @@ namespace tpmodul10_1302223090.Controllers
         [HttpGet]
         public IActionResult GetMahasiswa()
         {
-            return Ok(mahasiswa);
+            return new OkObjectResult(mahasiswa);
         }
 
         [HttpGet("{index}")]

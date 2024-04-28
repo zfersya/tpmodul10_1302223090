@@ -30,3 +30,4 @@ D:\Telyu\Kontruksi Perangkat Lunak\tpmodul10_1302223090\tpmodul10_1302223090\obj
 D:\Telyu\Kontruksi Perangkat Lunak\tpmodul10_1302223090\tpmodul10_1302223090\obj\Debug\net8.0\tpmodul10_1302223090.pdb
 D:\Telyu\Kontruksi Perangkat Lunak\tpmodul10_1302223090\tpmodul10_1302223090\obj\Debug\net8.0\tpmodul10_1302223090.genruntimeconfig.cache
 D:\Telyu\Kontruksi Perangkat Lunak\tpmodul10_1302223090\tpmodul10_1302223090\obj\Debug\net8.0\ref\tpmodul10_1302223090.dll
+D:\Telyu\Kontruksi Perangkat Lunak\tpmodul10_1302223090\tpmodul10_1302223090\obj\Debug\net8.0\tpmodul10_1302223090.sourcelink.json
